@@ -1,2 +1,2 @@
 # QBiome-SYNETEA
-QBiome adapté par Augustin Soulard pour SYNETEA. Fork non répertorié de la version 1.0 de Félix Hinckel : https://github.com/FelixHinckel/QBiome (non répertorié car j'ai le droit d'en faire qu'un seul max et j'en ai déjà fait)
+QBiome adapté par Augustin Soulard pour SYNETEA. Fork non répertorié de la version 1.0 de Félix Hinckel : https://github.com/FelixHinckel/QBiome (non répertorié car github ne donne le droit qu'à un fork par projet et ce compte a déjà un fork de QBiome pour le protocole Consoude Bulbeuse)
